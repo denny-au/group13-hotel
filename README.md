@@ -1,3 +1,17 @@
+# Final project
+
+You will work on the final project in groups.
+Use https://canvas.ucsc.edu/courses/82493/pages/final-project-groups to join a group
+
+You must use py4web for serverside. You can use the css library of your choice.
+You are not required to use a client-side framework but you can.
+
+Part of your grade includes:
+- usability
+- code quality
+- security / vulnerabilities
+- individual contribution to the project (commits)
+
 ## Project Option II - Hotel Room Reservation System
 
 You will build a hotel room reservation web application that allows staff (and optionally customers) to manage rooms, bookings, and customer information. This project emphasizes relational data modeling, user roles, and secure access control.
