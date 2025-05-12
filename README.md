@@ -20,7 +20,7 @@ You will build a hotel room reservation web application that allows staff (and o
 
 Your app must include the following database tables and features:
 
-Database Schema:
+Database Schema (models.py):
 
 - A table for rooms with fields: number_of_beds, amenities, price_per_night, image
 - A table for customers with fields: name, address, phone_number, email, etc.
